@@ -23,7 +23,7 @@
   tertiary: #f5efef;
   text: #7a2a2a;
   textDisabled: #c4bdbd;
-  textSubtle: #b43737;
+  textSubtle: #b10e0e;
   borderColor: #ebe9e9;
   card: #ffffff;
   gradients: {
@@ -45,11 +45,11 @@
   input: #5a3f3f;
   primaryDark: #a10000;
   tertiary: #473535;
-  text: #ff3e3e;
+  text: #ff0000;
   textDisabled: #7f4242;
   textSubtle: #d4c4c4;
   borderColor: #634b4b;
-  card: #323232;
+  card: #161616;
   gradients: {
     bubblegum: linear-gradient(139.73deg, #5c3131 0%, #542a2a 100%);
   }
@@ -57,5 +57,5 @@
 
 #gradientDark{
     color1: #5c3131;
-    color2: #542a2a
+    color2: #561111
 }
