@@ -11,6 +11,15 @@ export declare const links: ({
         href: string;
     }[];
     href?: undefined;
+} | {
+    label: string;
+    icon: string;
+    items: {
+        label: string;
+        href: string;
+        target: string;
+    }[];
+    href?: undefined;
 })[];
 export declare const socials: ({
     label: string;
@@ -18,12 +27,15 @@ export declare const socials: ({
     items: {
         label: string;
         href: string;
+        target: string;
     }[];
     href?: undefined;
+    target?: undefined;
 } | {
     label: string;
     icon: string;
     href: string;
+    target: string;
     items?: undefined;
 })[];
 export declare const MENU_HEIGHT = 64;

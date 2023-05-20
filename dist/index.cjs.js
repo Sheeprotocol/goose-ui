@@ -2135,13 +2135,13 @@ var links = [
     {
         label: "Pools",
         icon: "PoolIcon",
-        href: "/pools",
+        href: "/nests",
     },
-    {
-        label: "Lottery",
-        icon: "TicketIcon",
-        href: "/lottery",
-    },
+    // {
+    //   label: "Lottery",
+    //   icon: "TicketIcon",
+    //   href: "/lottery",
+    // },
     // {
     //   label: "NFT",
     //   icon: "NftIcon",
@@ -2209,10 +2209,12 @@ var links = [
             {
                 label: "Github",
                 href: "https://github.com/bunnyswapxyz/",
+                target: "_blank"
             },
             {
                 label: "Docs",
                 href: "https://bunnyswapxyz.gitbook.io/bunnyswapxyz/",
+                target: "_blank"
             },
         ],
     },
@@ -2225,6 +2227,7 @@ var socials = [
             {
                 label: "English",
                 href: "https://t.me/bunnyswapxyz",
+                target: "_blank"
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2269,13 +2272,15 @@ var socials = [
             {
                 label: "Announcements",
                 href: "https://t.me/bunnyswapxyznews",
+                target: "_blank"
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/bunnyswapxyz",
+        href: "https://twitter.com/bunnyswap_xyz",
+        target: "_blank"
     },
 ];
 var MENU_HEIGHT = 64;

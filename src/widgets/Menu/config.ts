@@ -26,13 +26,13 @@ export const links = [
   {
     label: "Pools",
     icon: "PoolIcon",
-    href: "/pools",
+    href: "/nests",
   },
-  {
-    label: "Lottery",
-    icon: "TicketIcon",
-    href: "/lottery",
-  },
+  // {
+  //   label: "Lottery",
+  //   icon: "TicketIcon",
+  //   href: "/lottery",
+  // },
   // {
   //   label: "NFT",
   //   icon: "NftIcon",
@@ -100,10 +100,12 @@ export const links = [
       {
         label: "Github",
         href: "https://github.com/bunnyswapxyz/",
+        target: "_blank"
       },
       {
         label: "Docs",
         href: "https://bunnyswapxyz.gitbook.io/bunnyswapxyz/",
+        target: "_blank"
       },
       // {
       //   label: "Blog",
@@ -121,6 +123,7 @@ export const socials = [
       {
         label: "English",
         href: "https://t.me/bunnyswapxyz",
+        target: "_blank"
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -165,6 +168,7 @@ export const socials = [
       {
         label: "Announcements",
         href: "https://t.me/bunnyswapxyznews",
+        target: "_blank"
       },
       // {
       //   label: "Price Bot",
@@ -175,7 +179,8 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/bunnyswapxyz",
+    href: "https://twitter.com/bunnyswap_xyz",
+    target: "_blank"
   },
 ];
 
