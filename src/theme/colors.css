@@ -2,7 +2,7 @@
 
 #baseColors{
   failure: #F72B50;
-  primary: #ea95bf;
+  primary: #46557d;
   primaryBright: #00c0ff;
   primaryDark: #d95b00;
   secondary: #31572C;
@@ -21,9 +21,9 @@
   invertedContrast: #FFFFFF;
   input: #eeeaf4;
   tertiary: #EFF4F5;
-  text: #EA95BF;
+  text: #46557d;
   textDisabled: #BDC2C4;
-  textSubtle: #ea95bf;
+  textSubtle: #46557d;
   borderColor: #E9EAEB;
   card: #ffffff;
   gradients: {
@@ -37,7 +37,7 @@
 }
 
 #darkColors{
-  secondary: #EA95BF;
+  secondary: #46557d;
   background: #6d3568;
   backgroundDisabled: #220522;
   contrast: #ffffff;
@@ -47,7 +47,7 @@
   tertiary: #2c222b;
   text: #FFFFFF;
   textDisabled: #8b627f;
-  textSubtle: #ea95bf;
+  textSubtle: #46557d;
   borderColor: #524B63;
   card: #54194f;
   gradients: {
