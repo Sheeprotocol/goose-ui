@@ -122,7 +122,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/bunnyswapxyz",
+        href: "https://t.me/famhiveclub",
         target: "_blank"
       },
       // {
@@ -167,7 +167,7 @@ export const socials = [
       // },
       {
         label: "Announcements",
-        href: "https://t.me/bunnyswapxyznews",
+        href: "https://t.me/hivefarmann",
         target: "_blank"
       },
       // {
@@ -179,7 +179,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/bunnyswap_xyz",
+    href: "https://twitter.com/Hivefarmclub",
     target: "_blank"
   },
 ];
