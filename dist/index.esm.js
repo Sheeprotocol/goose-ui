@@ -2213,7 +2213,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/famhiveclub",
+                href: "https://t.me/basefarmfi",
                 target: "_blank"
             },
             // {
@@ -2258,7 +2258,7 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/hivefarmann",
+                href: "https://t.me/basefarm",
                 target: "_blank"
             },
         ],
@@ -2266,7 +2266,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/Hivefarmclub",
+        href: "https://twitter.com/Basefarmfi",
         target: "_blank"
     },
 ];
